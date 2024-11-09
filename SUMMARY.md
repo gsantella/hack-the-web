@@ -25,7 +25,8 @@
 * [🌀 Graphics for Your Site](design-basics/graphics-for-your-site/README.md)
   * [Types of Images](design-basics/graphics-for-your-site/types-of-images.md)
   * [Where to Find Graphics](design-basics/graphics-for-your-site/where-to-find-graphics.md)
-  * [Image Formats](design-basics/graphics-for-your-site/images-and-media.md)
+  * [Image Formats](design-basics/graphics-for-your-site/images-and-media-1.md)
+  * [Other Media Formats](design-basics/graphics-for-your-site/other-media-formats.md)
 * [🦄 Icons](design-basics/interactive-blocks.md)
 
 ## Don't Start From Scratch
