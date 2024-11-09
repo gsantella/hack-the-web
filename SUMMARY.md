@@ -43,19 +43,18 @@
 * [Markdown](misc-topics/markdown.md)
 * [git and GitHub](misc-topics/git-and-github.md)
 
-***
+## Advanced Topics
 
-* [RELATED TECHNOLOGY](related-technology.md)
-* [🛰️ International Space Station and APIs](integrations.md)
-* [OpenAPI](openapi.md)
-* [Frontend Javascript Frameworks](frontend-javascript-frameworks.md)
-* [How a Webpage Gets To You?](how-a-webpage-gets-to-you.md)
-* [Hosting Sites](hosting-sites.md)
+* [🛰️ International Space Station and APIs](advanced-topics/integrations.md)
+* [OpenAPI](advanced-topics/openapi.md)
+* [Frontend Javascript Frameworks](advanced-topics/frontend-javascript-frameworks.md)
+* [How a Webpage Gets To You?](advanced-topics/how-a-webpage-gets-to-you.md)
+* [Hosting Sites](advanced-topics/hosting-sites.md)
 
 ## Real-World Applications
 
 * [💼 Career Paths in Web Design](real-world-applications/career-paths-in-web-design.md)
-* [Wordpress, Drupal, Design Apps](real-world-applications/wordpress-drupal-design-apps.md)
+* [Wordpress, Drupal, Website Builders](real-world-applications/wordpress-drupal-website-builders.md)
 * [🔐 Cybersecurity in Web Design](real-world-applications/cybersecurity-in-web-design.md)
 * [Ambucs Altoona Website](real-world-applications/ambucs-altoona-website.md)
 
