@@ -31,7 +31,7 @@
 
 ## Don't Start From Scratch
 
-* [Template Walkthrough](dont-start-from-scratch/template-walkthrough.md)
+* [▶️ Template Walkthrough](dont-start-from-scratch/template-walkthrough.md)
 
 ## Misc Topics
 

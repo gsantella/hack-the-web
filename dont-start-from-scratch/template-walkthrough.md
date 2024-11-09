@@ -1,4 +1,4 @@
-# Template Walkthrough
+# ▶️ Template Walkthrough
 
 Much can be learned by looking at templates that are already complete.
 
