@@ -6,7 +6,7 @@ icon: html5
 
 HTML (HyperText Markup Language) is the basic language used to create web pages. It's like the **blueprint** for a website, telling a browser (like Chrome or Firefox) how to display text, images, links, and more. HTML uses **tags** to define different elements on a webpage.
 
-#### How HTML Works
+### How HTML Works
 
 Each HTML file is made up of **elements** that are enclosed in **tags**. Tags are like instructions for the browser, and they usually come in pairs: an opening tag `<tag>` and a closing tag `</tag>`. Everything between the tags is the content that will appear on the webpage.
 

@@ -6,7 +6,7 @@ icon: js
 
 JavaScript is a programming language used to make websites interactive. While HTML creates the structure of the webpage and CSS styles it, JavaScript allows the page to **respond to user actions** like clicking buttons, typing in forms, or moving the mouse.
 
-#### Example of JavaScript:
+### Example of JavaScript:
 
 Here’s a simple example where JavaScript is used to display an alert message when a button is clicked:
 

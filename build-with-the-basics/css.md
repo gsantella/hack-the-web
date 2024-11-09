@@ -6,7 +6,7 @@ icon: css3-alt
 
 CSS (Cascading Style Sheets) is a language used to control the appearance and layout of web pages. While HTML defines the structure of a webpage (like headings, paragraphs, and links), CSS is used to make it look nice by controlling things like colors, fonts, and spacing.
 
-#### How CSS Works:
+### How CSS Works:
 
 CSS is made up of **rules** that tell the browser how to style elements of the page. Each rule has two parts:
 
