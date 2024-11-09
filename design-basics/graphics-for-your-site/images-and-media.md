@@ -1,9 +1,18 @@
-# 🔳 Images & media
+---
+icon: file-png
+---
 
-GitBook allows you to add images and media easily to your docs. Simply drag a file into the editor, or use the file manager in the upper right corner to upload multiple images at once.
+# Image Formats
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/images-hero.png" alt=""><figcaption><p>Add alt text and captions to your images</p></figcaption></figure>
+### **Image Formats Commonly Used**
 
-{% hint style="info" %}
-You can also add images simply by copying and pasting them directly into the editor — and GitBook will automatically add it to your file manager.
-{% endhint %}
+**JPG (JPEG)**: A commonly used format with lossy compression, ideal for photographs and images with gradients, but may lose quality during editing due to compression.
+
+**HEIC**: A format used by Apple, employing advanced compression, providing better image quality and smaller file sizes compared to JPG. Not universally supported across all platforms.
+
+**PNG**: Supports lossless compression with transparency features, making it excellent for graphics and images requiring sharp edges, but usually results in larger file sizes.
+
+**WEBP**: Designed by Google, it offers both lossy and lossless compression with smaller file sizes for web use, but may not be compatible with all browsers and tools.
+
+**SVG**: A vector format ideal for logos and icons that require scaling without losing quality. Useful for illustrations, not suitable for complex images like photographs.
+
