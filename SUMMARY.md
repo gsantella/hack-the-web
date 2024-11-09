@@ -29,9 +29,9 @@
   * [🔳 Image formats](design-basics/graphics-for-your-site/images-and-media-1.md)
 * [🦄 Icons](design-basics/interactive-blocks.md)
 
-## Learning From Templates
+## Don't Start From Scratch
 
-* [Template Walkthrough](learning-from-templates/template-walkthrough.md)
+* [Template Walkthrough](dont-start-from-scratch/template-walkthrough.md)
 
 ## Misc Topics
 
