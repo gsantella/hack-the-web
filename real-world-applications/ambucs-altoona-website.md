@@ -4,4 +4,4 @@ icon: tricycle
 
 # Ambucs Altoona Website
 
-AmbucsAltoona Webiste Walkthrough ... Coming Soon.
+Ambucs Altoona Website Walkthrough ... Coming Soon.
