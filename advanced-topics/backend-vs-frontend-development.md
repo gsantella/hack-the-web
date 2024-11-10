@@ -4,7 +4,7 @@ icon: server
 
 # Backend vs Frontend Development
 
-##
+{% embed url="https://youtu.be/CKL4OyEUpeQ" %}
 
 ## Backend vs Frontend Web Languages
 
