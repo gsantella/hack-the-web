@@ -4,47 +4,19 @@ description: Font-awesome / ionicons
 
 # 🦄 Icons
 
-In addition to the default Markdown you can write, GitBook has a number of out-of-the-box interactive blocks you can use. You can find interactive blocks by pressing `/` from within the editor.
+<figure><img src="https://gitbookio.github.io/onboarding-template-images/interactive-hero.png" alt=""><figcaption><p>Example of Icons Used in Web Design</p></figcaption></figure>
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/interactive-hero.png" alt=""><figcaption></figcaption></figure>
+### Integrating Icon Library
 
-### Tabs
+To integrate an icon library like Font Awesome on your web page, follow these steps:
 
-{% tabs %}
-{% tab title="First tab" %}
-Each tab is like a mini page — it can contain multiple other blocks, of any type. So you can add code blocks, images, integration blocks and more to individual tabs in the same tab block.
-{% endtab %}
+1. Include the Font Awesome stylesheet in your HTML `<head>` section:
+2. ```html
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+   ```
+   2. Use the icons in your HTML by adding the appropriate class to an `<i>` tag:
+   3.  ```html
+       <i class="fas fa-camera"></i>
+       ```
 
-{% tab title="Second tab" %}
-Add images, embedded content, code blocks, and more.
-
-```javascript
-const handleFetchEvent = async (request, context) => {
-    return new Response({message: "Hello World"});
-};
-```
-{% endtab %}
-{% endtabs %}
-
-### Expandable sections
-
-<details>
-
-<summary>Click me to expand</summary>
-
-Expandable blocks are helpful in condensing what could otherwise be a lengthy paragraph. They are also great in step-by-step guides and FAQs.
-
-</details>
-
-### Drawings
-
-<img alt="" class="gitbook-drawing">
-
-### Embedded content
-
-{% embed url="https://www.youtube.com/watch?v=YILlrDYzAm4" %}
-
-{% hint style="info" %}
-GitBook supports thousands of embedded websites out-of-the-box, simply by pasting their links. Feel free to check out which ones[ are supported natively](https://iframely.com).
-{% endhint %}
-
+       This will display a camera icon from Font Awesome.
