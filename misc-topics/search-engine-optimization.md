@@ -4,6 +4,14 @@ icon: nfc-magnifying-glass
 
 # Search Engine Optimization
 
+### Why
+
+Everyone wants their webpage to rank higher on search results. Now you can choose to pay for this or you can create your pages in a way.
+
+### SEO Techniques
+
+Sometimes it is as simple as adding a **Google Business Listing** ([https://www.google.com/business/](https://www.google.com/business/)) so that Google knows more about your organization and website, but there are many other techniques that help get your site more noticed and ranked higher by search engines.
+
 ### Basic SEO Practices for a Web Page
 
 1. **Keyword Research**: Identify relevant keywords that your audience is searching for and integrate them naturally throughout your content.
@@ -17,4 +25,7 @@ icon: nfc-magnifying-glass
 9. **High-Quality Content**: Create informative, engaging, and original content that answers the needs of your audience and encourages sharing.
 10. **URL Structure**: Use clean, descriptive URLs that include relevant keywords and are easy to understand.
 
-Utilize Google Business Listings, etc
+{% hint style="info" %}
+If you utilize Wordpress CMS to build your websites, there are many plugins that help do many of these best practices for you.
+{% endhint %}
+

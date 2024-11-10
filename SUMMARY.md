@@ -35,12 +35,12 @@
 
 ## Misc Topics
 
-* [Mobile Responsive Design](misc-topics/mobile-responsive-design.md)
 * [Search Engine Optimization](misc-topics/search-engine-optimization.md)
 * [Favicons](misc-topics/favicons.md)
 * [HTML & CSS Validation](misc-topics/html-and-css-validation.md)
 * [Performance Testing](misc-topics/performance-testing.md)
 * [Markdown](misc-topics/markdown.md)
+* [Mobile Responsive Design](misc-topics/mobile-responsive-design.md)
 * [git and GitHub](misc-topics/git-and-github.md)
 
 ## Advanced Topics
