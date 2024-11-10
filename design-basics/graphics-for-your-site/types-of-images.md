@@ -1,15 +1,9 @@
 ---
-description: Your pages need images - so let's find them
 icon: image-landscape
+description: Your pages need images - so let's find them
 ---
 
 # Types of Images
-
-Now we know there are images all around the internet, but you can't always use someone elses photos or illustrations on your page.
-
-
-
-Let's start with photos vs illustrations.
 
 ## What is a photo?
 
