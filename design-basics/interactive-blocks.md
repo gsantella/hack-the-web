@@ -24,21 +24,6 @@ To integrate an icon library like Font Awesome on your web page, follow these st
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="103"><figcaption><p>Camera Icon</p></figcaption></figure>
 
-\
-\
-
-
-```html
-```
-
-1. <pre class="language-html"><code class="lang-html"><strong>
-   </strong><strong>Use the icons in your HTML by adding the appropriate class to an &#x3C;i> tag:
-   </strong></code></pre>
-   2.  ```html
-       ```
-
-
-
 ### Some Examples of Icon Libraries
 
 [https://fontawesome.com/](https://fontawesome.com/)\
