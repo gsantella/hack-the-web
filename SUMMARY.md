@@ -49,6 +49,7 @@
 * [Frontend Javascript Frameworks](advanced-topics/frontend-javascript-frameworks.md)
 * [How a Webpage Gets To You?](advanced-topics/how-a-webpage-gets-to-you.md)
 * [Hosting Sites](advanced-topics/hosting-sites.md)
+* [Backend vs Frontend Development](advanced-topics/backend-vs-frontend-development.md)
 * [Browser Built-In Web Tools](advanced-topics/browser-built-in-web-tools.md)
 
 ## Real-World Applications
