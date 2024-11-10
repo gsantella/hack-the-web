@@ -2,9 +2,7 @@
 
 {% embed url="https://youtu.be/PoK8_zwu0jg" %}
 
-
-
-#### Typography and Fonts on Web Pages
+### Typography and Fonts on Web Pages
 
 Typography in web design involves the strategic use of fonts to enhance readability, accessibility, and aesthetics. Here are key considerations:
 
@@ -18,9 +16,7 @@ Remember, effective typography enhances user experience and communicates the bra
 
 ### Using a Google Font
 
-&#x20;
-
-To utilize a Google Font in your web design, include the following link in the `<head>` section of your HTML file:
+To utilize a Google Font in your web design, include the corresponding link in the `<head>` section of your HTML file:
 
 ```html
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
