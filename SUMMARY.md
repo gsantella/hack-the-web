@@ -35,7 +35,7 @@
 
 ## Misc Topics
 
-* [CSS Mobile Responsive](misc-topics/css-mobile-responsive.md)
+* [Mobile Responsive Design](misc-topics/mobile-responsive-design.md)
 * [Search Engine Optimization](misc-topics/search-engine-optimization.md)
 * [Favicons](misc-topics/favicons.md)
 * [HTML & CSS Validation](misc-topics/html-and-css-validation.md)
