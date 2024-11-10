@@ -1,9 +1,18 @@
 # 📰 Keep on Learning
 
-### Earn a Specilalized Technology Degree at SouthHills
+{% embed url="https://www.southhills.edu" %}
+Earn a Specialized Associate Degree at South Hills School
+{% endembed %}
 
-* [<mark style="color:blue;">**Information Technology Program**</mark>](https://www.southhills.edu/programs/information-technology/)
-* [<mark style="color:blue;">**Software Development & Programming Program**</mark>](https://www.southhills.edu/programs/software-development-programming/)
+{% tabs %}
+{% tab title="Information Technology" %}
+[<mark style="color:blue;">**Information Technology Program**</mark>](https://www.southhills.edu/programs/information-technology/)
+{% endtab %}
+
+{% tab title="Software Development & Programming" %}
+[<mark style="color:blue;">**Software Development & Programming Program**</mark>](https://www.southhills.edu/programs/software-development-programming/)
+{% endtab %}
+{% endtabs %}
 
 {% embed url="https://w3schools.com" %}
 
