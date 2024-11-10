@@ -1,5 +1,6 @@
 ---
 icon: vuejs
+hidden: true
 ---
 
 # Frontend Javascript Frameworks

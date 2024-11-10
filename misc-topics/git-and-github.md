@@ -1,5 +1,6 @@
 ---
 icon: code-branch
+hidden: true
 ---
 
 # git and GitHub

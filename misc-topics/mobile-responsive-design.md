@@ -1,9 +1,10 @@
 ---
 icon: mobile-button
 description: media queries in CSS
+hidden: true
 ---
 
-# CSS Mobile Responsive
+# Mobile Responsive Design
 
 Show web tools Mobile View
 
