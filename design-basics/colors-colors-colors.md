@@ -1,7 +1,3 @@
----
-description: Show RGB in CSS
----
-
 # 🏳️‍🌈 Colors, Colors, Colors
 
 ### Color Theory
