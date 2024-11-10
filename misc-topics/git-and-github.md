@@ -4,4 +4,4 @@ icon: code-branch
 
 # git and GitHub
 
-GitB
+GitHub video coming soon
