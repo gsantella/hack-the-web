@@ -1,7 +1,3 @@
----
-description: Font-awesome / ionicons
----
-
 # 🦄 Icons
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/interactive-hero.png" alt=""><figcaption><p>Example of Icons Used in Web Design</p></figcaption></figure>
@@ -20,3 +16,8 @@ To integrate an icon library like Font Awesome on your web page, follow these st
        ```
 
        This will display a camera icon from Font Awesome.
+
+### Some Examples of Icon Libraries
+
+[https://fontawesome.com/](https://fontawesome.com/)\
+[https://ionic.io/ionicons](https://ionic.io/ionicons)
