@@ -50,7 +50,6 @@
 * [How a Webpage Gets To You?](advanced-topics/how-a-webpage-gets-to-you.md)
 * [Hosting Sites](advanced-topics/hosting-sites.md)
 * [Browser Built-In Web Tools](advanced-topics/browser-built-in-web-tools.md)
-* [OpenAPI](advanced-topics/openapi.md)
 
 ## Real-World Applications
 
