@@ -4,11 +4,17 @@ icon: markdown
 
 # Markdown
 
-GitBook supports many different types of content, and is backed by Markdown — meaning you can copy and paste any existing Markdown files directly into the editor!
-
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/markdown-hero.png" alt=""><figcaption></figcaption></figure>
 
-Feel free to test it out and copy the Markdown below by hovering over the code block in the upper right, and pasting into a new line underneath.
+**Markdown** is a lightweight markup language with plain text formatting syntax. It is designed to be easy-to-read and easy-to-write, using an intuitive syntax that converts into HTML for web displays.&#x20;
+
+**Markdown** allows writers to create formatted documents using simple text editors without needing to delve into intricate HTML coding. Basic elements like headings, lists, links, and emphasis are represented by simple symbols, such as asterisks for emphasis or hashtags for headings, making it efficient for writers to format content consistently across various platforms.
+
+**Markdown** simply converts to HTML underneath allowing you to quickly write code in web applications like Discord.
+
+If you want to practice - check out - [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
+
+### Some example of Markdown are below:
 
 ```markdown
 # Heading
@@ -16,11 +22,13 @@ Feel free to test it out and copy the Markdown below by hovering over the code b
 This is some paragraph text, with a [link](https://docs.gitbook.com) to our docs. 
 
 ## Heading 2
-- Point 1
-- Point 2
-- Point 3
-```
 
-{% hint style="info" %}
-If you have multiple files, GitBook makes it easy to import full repositories too — allowing you to keep your GitBook content in sync.
-{% endhint %}
+- List Item 1
+- List Item 2
+- List Item 3
+
+*Italicized text* or _Italicized text_
+
+**Bold text**
+
+```
