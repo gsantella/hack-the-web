@@ -54,12 +54,5 @@ CSS also allows an RGBA format, adding an alpha channel for transparency:
 
 Cool colors, Warm colors, Contrast, Complementary, Primary, Secondary, Mixed, Neutral, Hue, Tint. Tone, Shade, Value, Tertiary, Monochromatic, Analogous, Saturation, Chroma/Chromaticity, Triads, Split complementary, Intensity, Arbitrary color, Optical color, Mass tone, Quanternary, Complex colors, Harmony
 
-### For overall design, some designers would say:
-
-* Pick a set of colors
-* Pick a layout
-* Pick some Fonts that go together&#x20;
-* And you'll have a unique design
-
 
 

@@ -4,7 +4,14 @@ icon: truck-ramp-box
 
 # What Makes Good Design
 
-#### Good Visual Design Principles
+### For overall design, some designers would say:
+
+* Pick a set of colors
+* Choose a layout
+* Pick some fonts that work well together&#x20;
+* And you'll have a unique design
+
+### Good Visual Design Principles
 
 * **Balance**: Distribute visual elements evenly across the page to create a sense of harmony.
 * **Contrast**: Use contrasting colors, shapes, and textures to highlight important areas and guide user focus.
@@ -12,7 +19,7 @@ icon: truck-ramp-box
 * **Proximity**: Group related items together to suggest their relationship and improve comprehension.
 * **Color Theory**: Apply colors thoughtfully to evoke emotions and create visual interest while ensuring readability.
 
-#### Overall Design Principles for Web Pages
+### Overall Design Principles for Web Pages
 
 1. **User-Centric Design**: Focus on the needs and preferences of the target audience.
 2. **Simplicity**: Use a clean and straightforward layout with minimal distractions.
