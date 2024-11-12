@@ -36,9 +36,9 @@
 ## Misc Topics
 
 * [Search Engine Optimization](misc-topics/search-engine-optimization.md)
-* [Favicons](misc-topics/favicons.md)
-* [HTML & CSS Validation](misc-topics/html-and-css-validation.md)
-* [Performance Testing](misc-topics/performance-testing.md)
+* [⭐ Favicons](misc-topics/favicons.md)
+* [☑️ HTML & CSS Validation](misc-topics/html-and-css-validation.md)
+* [📊 Performance Testing](misc-topics/performance-testing.md)
 * [Markdown](misc-topics/markdown.md)
 * [Mobile Responsive Design](misc-topics/mobile-responsive-design.md)
 * [git and GitHub](misc-topics/git-and-github.md)
@@ -49,8 +49,8 @@
 * [Frontend Javascript Frameworks](advanced-topics/frontend-javascript-frameworks.md)
 * [How a Webpage Gets To You?](advanced-topics/how-a-webpage-gets-to-you.md)
 * [Hosting Sites](advanced-topics/hosting-sites.md)
-* [Backend vs Frontend Development](advanced-topics/backend-vs-frontend-development.md)
-* [Browser Built-In Web Tools](advanced-topics/browser-built-in-web-tools.md)
+* [↔️ Backend vs Frontend Development](advanced-topics/backend-vs-frontend-development.md)
+* [⚙️ Browser Built-In Web Tools](advanced-topics/browser-built-in-web-tools.md)
 
 ## Real-World Applications
 
@@ -62,7 +62,7 @@
 
 * [🎉 Course Recap](conclusion/course-recap.md)
 * [📝 Quiz for Certificate](conclusion/quiz-for-certificate.md)
-* [📰 Keep on Learning](conclusion/keep-on-learning.md)
+* [🦉 Keep on Learning](conclusion/keep-on-learning.md)
 
 ***
 

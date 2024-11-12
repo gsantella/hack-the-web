@@ -1,4 +1,4 @@
-# 📰 Keep on Learning
+# 🦉 Keep on Learning
 
 {% embed url="https://www.southhills.edu" %}
 

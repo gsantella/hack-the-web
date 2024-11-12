@@ -1,5 +1,6 @@
 ---
 icon: tricycle
+hidden: true
 ---
 
 # Ambucs Altoona Website
