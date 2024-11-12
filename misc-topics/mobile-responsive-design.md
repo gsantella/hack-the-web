@@ -1,12 +1,11 @@
 ---
 icon: mobile-button
-description: media queries in CSS
-hidden: true
 ---
 
 # Mobile Responsive Design
 
-Show web tools Mobile View
+{% embed url="https://youtu.be/Af8PwtDJHaA" %}
 
-Try in multiple devices
+### Media Queries Example on W3Schools.com
 
+{% embed url="https://www.w3schools.com/css/css_rwd_mediaqueries.asp" %}
