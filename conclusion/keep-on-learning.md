@@ -7,6 +7,10 @@
 [<mark style="color:blue;">**South Hills - Information Technology Program**</mark>](https://www.southhills.edu/programs/information-technology/)
 {% endtab %}
 
+{% tab title="Graphic Arts" %}
+[<mark style="color:blue;">**South Hills - Graphic Arts Program**</mark>](https://www.southhills.edu/programs/graphic-arts/)
+{% endtab %}
+
 {% tab title="Software Development & Programming" %}
 [<mark style="color:blue;">**South Hills - Software Development & Programming Program**</mark>](https://www.southhills.edu/programs/software-development-programming/)
 {% endtab %}
